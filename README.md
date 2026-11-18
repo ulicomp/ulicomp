@@ -28,6 +28,7 @@ Full-stack engineer in Miami. I take a problem a non-technical person describes 
 
 | Project | What it is |
 |---|---|
+| [Shift Match](https://github.com/ulicomp/shift-match) · [live demo](https://main.d21vib3ih80h72.amplifyapp.com/) | Ranks the caregiver most likely to cover a cancelled home care shift: hard rules, a learned likelihood model, live re-ranking and an agent mode |
 | [Office Pulse](https://github.com/ulicomp/office-pulse) | Insurance-agency commission reconciliation SaaS (case study) |
 | [Mettle Inspect](https://github.com/ulicomp/mettle-inspect) | Offline-first inspection app with branded Word/PDF reports |
 | [DrHorticulture](https://github.com/ulicomp/drhorticulture) | Aerial palm detection with YOLO11 segmentation (FIU team project) |
